@@ -23,6 +23,6 @@
     "ring-client-api": "^11.7.5"
   },
   "engines": {
-    "node": ">14 "
+    "node": "^14 "
   }
 }
