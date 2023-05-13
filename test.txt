@@ -1,0 +1,17 @@
+2fa Code: er the code sent to +1xxxxxxxx20 via sms
+This CLI will provide you with a refresh token which you can use to configure ring-client-api and homebridge-ring.
+Email: Password: Please enter the code sent to +1xxxxxxxx20 via sms
+2fa Code: This CLI will provide you with a refresh token which you can use to configure ring-client-api and homebridge-ring.
+Email: Password: Please enter the code sent to +1xxxxxxxx20 via sms
+2fa Code: This CLI will provide you with a refresh token which you can use to configure ring-client-api and homebridge-ring.
+Email: Password: Please enter the code sent to +1xxxxxxxx20 via sms
+2fa Code: This CLI will provide you with a refresh token which you can use to configure ring-client-api and homebridge-ring.
+Email: Password: Please enter the code sent to +1xxxxxxxx20 via sms
+2fa Code: This CLI will provide you with a refresh token which you can use to configure ring-client-api and homebridge-ring.
+Email: Password: This CLI will provide you with a refresh token which you can use to configure ring-client-api and homebridge-ring.
+Email: Password: Please enter the code sent to +1xxxxxxxx20 via sms
+2fa Code: This CLI will provide you with a refresh token which you can use to configure ring-client-api and homebridge-ring.
+Email: Password: Please enter the code sent to +1xxxxxxxx20 via sms
+2fa Code: This CLI will provide you with a refresh token which you can use to configure ring-client-api and homebridge-ring.
+Email: Password: Please enter the code sent to +1xxxxxxxx20 via sms
+2fa Code: 
