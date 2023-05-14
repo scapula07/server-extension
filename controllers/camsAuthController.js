@@ -1,7 +1,6 @@
 const catchAsync = require('../utils/catchAsync');
 const { spawn ,spawnSync} = require("child_process");
 const WebSocketServer = require('ws').Server;
-const { ClientCredentials, ResourceOwnerPassword, AuthorizationCode } = require('simple-oauth2')
 const axios = require('axios');
 const fs = require('fs')
 const admin = require("firebase-admin");
