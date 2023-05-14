@@ -4,7 +4,6 @@ require('dotenv').config();
 const fs = require("fs");
 const  { RingApi } =require('ring-client-api')
 const  { promisify } =require('util')
-const webpush = require('web-push');
 const admin = require("firebase-admin");
 const axios = require('axios');
 const  { mkdir, rm } =require( 'node:fs/promises')
