@@ -21,8 +21,10 @@ const app = express();
 
 app.use(express.json({ limit: '10kb' }));
 app.use(cookieParser());
-app.use(cors());
-app.options('*', cors());
+app.use(cors({
+  origin: '*'
+}));
+// app.options('*', cors());
 app.use(express.static('./public'));
 
 app.use('/api/v1/cams', connectionRoutes);
